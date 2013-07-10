@@ -14,4 +14,10 @@
 	<natures>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<variableList>
+		<variable>
+			<name>JAVA_HOME</name>
+			<value>file:/C:/Program%20Files/Java/jre6/bin</value>
+		</variable>
+	</variableList>
 </projectDescription>

@@ -3,3 +3,9 @@ Todos.Router.map(function() {
 		path : '/'
 	});
 });
+
+Todos.TodosRoute = Ember.Route.extend({
+	model : function() {
+		return Todos.Todo.find();
+	}
+});

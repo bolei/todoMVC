@@ -1,5 +1,5 @@
-// Version: v1.0.0-rc.6
-// Last commit: 893bbc4 (2013-06-23 15:14:46 -0400)
+// Version: v1.0.0-rc.5-113-g720acd8
+// Last commit: 720acd8 (2013-06-22 09:19:49 -0700)
 
 
 (function() {
@@ -156,8 +156,8 @@ Ember.deprecateFunc = function(message, func) {
 
 })();
 
-// Version: v1.0.0-rc.6
-// Last commit: 893bbc4 (2013-06-23 15:14:46 -0400)
+// Version: v1.0.0-rc.5-113-g720acd8
+// Last commit: 720acd8 (2013-06-22 09:19:49 -0700)
 
 
 (function() {
